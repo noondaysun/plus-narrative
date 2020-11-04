@@ -1,0 +1,79 @@
+.rollout-blue {
+    color: #5565f7;
+}
+.rollout-blue-bg {
+    background-color: #5565f7;
+    color: white;
+    padding: 0px 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.btn {
+    background-color: #5565f7;
+    border-radius: 20px !important;
+}
+.footer-links-small a {
+    font-size: 10px;
+}
+.footer-links-small a::after {
+    content: " | ";
+}
+.footer-links-small a:last-child::after {
+    content: "";
+}
+.primary {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+.grey {
+    background: #F4F6FF 0% 0% no-repeat padding-box !important;
+    padding: 60px 10px !important;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.no-margin {
+    margin: 0px;
+}
+.article {
+    border: 1px solid #5565f7;
+    border-radius: 10px;
+    margin: 0px 10px 0px 0px !important;
+    padding: 10px !important;
+}
+.small-img {
+    height: 60px !important;
+    width: 60px !important;
+}
+.col {
+    margin-bottom: 50px !important;
+}
+a {
+    color: black;
+    font-size: 13px;
+    margin: 1px 10px;
+}
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+h2 {
+    
+    font-size: 50px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+html {
+    border-top: 5px solid #5565f7;
+    color: black;
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 20px;
+}
+body {
+    background: linear-gradient(180deg, #dcf7f8 0, white 500px );
+    padding-top: 40px;
+}
+
